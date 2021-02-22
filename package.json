@@ -1,0 +1,40 @@
+{
+  "name": "cv-projects-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monurcevik/cv-projects-mvvm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monurcevik/cv-projects-mvvm/issues"
+  },
+  "homepage": "https://github.com/monurcevik/cv-projects-mvvm#readme",
+  "dependencies": {
+    "amazon-s3-uri": "^0.1.0",
+    "aws-sdk": "2.x",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "ejs": "2.x",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "jsonwebtoken": "8.5.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4",
+    "passport": "0.4.1",
+    "passport-jwt": "4.0.0",
+    "passport-local": "1.0.0"
+  },
+  "engines": {
+    "node": "14.7.0"
+  }
+}
